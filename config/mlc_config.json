@@ -2,7 +2,7 @@
   "ignorePatterns": [],
   "replacementPatterns": [
     {
-      "pattern": "^/",
+      "pattern": "(a,r)*",
       "replacement": "/github/workspace/"
     }
   ],
